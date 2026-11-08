@@ -37,10 +37,6 @@ Add the actual technologies used in your project here.
 
 Installation instructions will be added based on the project's final implementation.
 
-## Project Status
-
-🚧 Under Development
-
 ## Future Enhancements
 
 - More language support
