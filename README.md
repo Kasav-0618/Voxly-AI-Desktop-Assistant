@@ -50,6 +50,20 @@ Watch Voxly AI in action:
 
 https://youtu.be/OfDRsXnU6Ag
 
+## 📸 Project Screenshots
+
+### Main Dashboard
+![Voxly AI Dashboard](screenshots/Dashboard.png)
+
+### Voice Recognization
+![Voice Recognization](screenshots/Voice-Recognization.png)
+
+### Text Interaction
+![Text Interaction](screenshots/Text-Interaction.png)
+
+### Desktop control
+![Desktop control](screenshots/Desktop-control.png)
+
 ## Author
 
 Developed as an AI desktop assistant project.
