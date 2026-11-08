@@ -53,16 +53,16 @@ https://youtu.be/OfDRsXnU6Ag
 ## 📸 Project Screenshots
 
 ### Main Dashboard
-![Voxly AI Dashboard](screenshots/Dashboard.png)
+![Voxly AI Dashboard](screenshots/dashboard.png)
 
-### Voice Recognization
-![Voice Recognization](screenshots/Voice-Recognization.png)
+### Voice Interaction
+![Voice Interaction](screenshots/voice-interaction.png)
 
 ### Text Interaction
-![Text Interaction](screenshots/Text-Interaction.png)
+![Text Interaction](screenshots/text-chat.png)
 
-### Desktop control
-![Desktop control](screenshots/Desktop-control.png)
+### Desktop Control
+![Desktop Control](screenshots/desktop-control.png)
 
 ## Author
 
