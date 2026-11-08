@@ -44,6 +44,12 @@ Installation instructions will be added based on the project's final implementat
 - Improved AI responses
 - Personalized user experience
 
+## 🎥 Project Demo
+
+Watch Voxly AI in action:
+
+https://youtu.be/OfDRsXnU6Ag
+
 ## Author
 
 Developed as an AI desktop assistant project.
@@ -51,3 +57,4 @@ Developed as an AI desktop assistant project.
 ---
 
 **Voxly AI – Making computer interaction simpler.**
+
